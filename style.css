@@ -1,0 +1,29 @@
+body{
+    font-family: "Advent Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 700;
+}
+.heading{
+    font-size: 30px;
+}
+.comparison_box {
+    background-color: #817f7f;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 15px;
+    color: white;
+}
+
+h5{
+    background-color: white;
+    color:black;
+    border-radius: 40px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+#img1{
+    width:300px;
+
+}
